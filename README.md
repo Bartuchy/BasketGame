@@ -1,1 +1,2 @@
 # BasketGame
+Simple basketball game
